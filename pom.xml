@@ -12,7 +12,7 @@
 	</properties>
 	<dependencies>
 		<dependency>
-			<groupId>pa1.informatica.uma.es</groupId>
+			<groupId>es.uma.informatica.pa1</groupId>
 			<artifactId>pa1p12</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
